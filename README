@@ -1,5 +1,4 @@
 This program generates a wordmaze as described on http://www.sugardoodle.net/index.php?option=com_content&view=article&id=6106.
 Please visit the above link to see the wordmaze.
 
-This program takes some words as input and generates a random puzzle with those words as described on above link
-using backtracking.
+This program takes some words as input and generates a random puzzle with those words as described on above link using backtracking.
