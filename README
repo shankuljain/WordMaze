@@ -1,0 +1,13 @@
+
+To run the program :
+  1) open terminal or MSDOS
+  2) go to directory containing source files
+  3) Compile the program using javac WordMaze.java
+  4) Run the program using java WordMaze
+  5) Follow the on screen instructions
+
+Note : This program generates a wordmaze as described on http://www.sugardoodle.net/index.php?option=com_content&view=article&id=6106.
+
+Note : '0' means that that position contains a random character
+
+Note : Default starting position is 1st row and 3rd column i.e 2nd cell.
